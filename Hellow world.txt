@@ -1,1 +1,2 @@
-print("Hellow everyone!");
+print("Hello everyone!");
+print("Hello kady and men");
