@@ -1,1 +1,4 @@
+print("Hellow Mike!");
+print("Hellow Tom!");
+print("Hellow Linda!");
 print("Hellow everyone!");
