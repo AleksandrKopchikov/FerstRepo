@@ -1,4 +1,6 @@
-print("Hellow Mike!")
-print("Hellow Tom!")
-print("Hellow Linda!")
-print("Hellow everyone!")
+print("Hellow Mike;")
+print("Hellow Tom;")
+print("Hellow Linda;")
+print("Hellow everyone;")
+print("Hello lady and men;");
+print("Thenkye for your attencion;");
